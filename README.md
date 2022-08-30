@@ -1,4 +1,4 @@
-### Hi there, welcome to my GiftHub perfil !! 👋
+### Hi there, welcome to my GitHub perfil !! 👋
 # I'm Henrique Scussel 🥀
 To make your ambitions come true you need to take risks 🤞
 - 🌱 I’m currently learning Graphic Design and Systems Analysis and Development
