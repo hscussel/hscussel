@@ -2,7 +2,7 @@
 # I'm Henrique Scussel 🥀
 To make your ambitions come true you need to take risks 🤞
 - 🌱 I’m currently learning Graphic Design and Systems Analysis and Development
-- 📖 I've associates degree in Radiology Technician 
+- 📖 I've associate's degree in Radiology Technician 
 - 💬 Ask me about health or chermistry!
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: Game, gambling, anime and math lover also olympic gymnastics enjoyer 
