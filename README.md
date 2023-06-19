@@ -5,7 +5,7 @@ To make your ambitions come true you need to take risks 🤞
 - 📖 I've associate's degree in Radiology Technician 
 - 💬 Ask me about health or chermistry!
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: Game, gambling, anime and math lover also olympic gymnastics enjoyer 
+- ⚡ Fun fact: Game, anime and math lover also olympic gymnastics enjoyer 
 
 ### Contats: 
 <a href="https://instagram.com/hscussel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
