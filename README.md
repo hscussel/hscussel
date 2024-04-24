@@ -3,7 +3,7 @@
 To make your ambitions come true you need to take risks 🤞
 - 📖 I’m currently learning Graphic Design and Systems Analysis and Development
 - 🦴 I've associate's degree in Radiology Technician 
-- 😄 Pronouns: all of them
+- 😄 Pronouns: all of them <br>
 I'm passionate about creating prototypes and layouts for websites and mobile applications!
 
 ### Contats: 
