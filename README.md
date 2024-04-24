@@ -3,7 +3,7 @@
 To make your ambitions come true you need to take risks 🤞
 - 📖 I’m currently learning Graphic Design and Systems Analysis and Development
 - 🦴 I've associate's degree in Radiology Technician 
-- 😄 Pronouns: all of them <br>
+- 😄 Pronouns: all of them
 I'm passionate about creating prototypes and layouts for websites and mobile applications!
 
 ### Contats: 
@@ -12,6 +12,6 @@ I'm passionate about creating prototypes and layouts for websites and mobile app
 </div>
 
 ### Most used languages and software:
-<div style="display: inline-block"> <br>
+<div style="display: inline-block">
   <img allign="center" alt="HS-HTML" height = "30" widht = "40" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
 </div>
